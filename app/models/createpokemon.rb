@@ -1,0 +1,2 @@
+class Createpokemon < ApplicationRecord
+end
